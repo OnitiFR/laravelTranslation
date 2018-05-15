@@ -31,7 +31,7 @@ The last required step is to publish views and assets in your application with :
 
 ### Migrate ###
  
-The last required step is to publish views and assets in your application with :
+Migrate in order to create table:
 ```
     php artisan migrate
 ```
