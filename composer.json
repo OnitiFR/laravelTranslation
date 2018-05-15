@@ -1,0 +1,20 @@
+{
+    "name": "oniti/translation",
+    "description": "Permet de gérer la traduction d'objets",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francois BOUYER",
+            "email": "francois@oniti.fr"
+        }
+    ],
+    "require": {
+        "oniti/uuid-for-key": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Oniti\\Translation\\": "src"
+        }
+    }
+}
