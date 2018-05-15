@@ -10,6 +10,7 @@
         }
     ],
     "require": {
+        "php": "^5.4 || ^7.0",
         "oniti/uuid-for-key": "dev-master"
     },
     "autoload": {
